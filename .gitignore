@@ -1,0 +1,29 @@
+# Compiled files
+*.class
+*.jar
+!jade.jar
+!lib/*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Build
+target/
+build/
+out/
+bin/
+
+# JADE
+APDescription.txt
+MTPs-Main-Container.txt
+
+# OS
+.DS_Store
+Thumbs.db
